@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component Trainging
+# Frontend Mentor - Stats preview card component Training
 
 <img src="https://i.pinimg.com/originals/4b/45/b2/4b45b2f4364755654bbf6045c3460fcd.jpg" alt="exemplo imagem">
 
